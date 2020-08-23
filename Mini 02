@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<style>
+.quality{
+font-size: 18px;
+font-family: Times-New-Roman;
+color: darkgreen;
+background-color: darkblue;
+text-align: center;
+margin: 30px;
+}
+.hiker{
+font-size: 18px;
+font-family: Times-New-Roman;
+background-color: rgb(21, 255, 0);
+color: rgb(0, 60, 255);
+margin: 30px;
+text-align: center;
+}
+.sport{
+font-size: 18px;
+font-family: Times-New-Roman;
+background-color: green;
+color: darkblue;
+margin: 30px;
+text-align: center;
+}
+body{
+border-style: double;
+border-width: 14px;
+font-family: Times-New-Roman;
+text-align: center;
+}
+</style>
+<title>Recent exercise.</title>
+<body>
+<h1>Stuff I did so far</h1>
+<br>
+<div class= "sport">
+<p>This summmer, we did a lot of fun things! We studied, and had fun
+outside, and did a lot of fun things! But there were a few things we didn't do.
+I'll talk about what I want to do.</p>
+<br>
+<p>First, I want to play sports with my family. I love to play cricket, and 
+other sports, but it is best to do that stuff with my family. I really 
+want to play sports with them, and have a great time.</p>
+</div>
+<br>
+<div class= "hiker">
+<p>I love hiking, and as a scout, there's no reason I shouldn't. I love to 
+hike, and summer is the perfect time to do it. I would love to go on more hikes
+that is something that I look forward to do.</p>
+</div>
+<br>
+<div class= "quality">
+<p>But like all people, and families, I would love to have quality time with
+my family, and enjoy a movie, or board-game with my family. I want to make the
+most out of this summer, and be sure to have a great time. </p>
+<br>
+<p>Over-all I had a great time with my family this summer, and hope to have more.
+I wanted to share my experience with you all. See you all soon!</p>
+</div>
+</body>
