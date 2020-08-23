@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<style>
+.riding{
+font-size: 18px;
+font-family: Times-New-Roman;
+background-color: red;
+margin: 30px;
+
+}
+.exercise{
+font-size: 18px;
+font-family: Times-New-Roman;
+background-color: darkorange;
+margin: 30px;
+}
+body{
+border-style: double;
+border-width: 14px;
+margin: 20px;
+}
+img{
+margin: 30px;
+}
+</style>
+<title>Recent exercise.</title>
+<body>
+<div class="riding">
+<h1>Stuff I did so far</h1>
+<br>
+<p>This summer, I had a lot of fun! some of the stuff was riding my bike, 
+and exercising with my family. We did a bit of stretching and also a
+ lot of riding my bike. down below is my bike!</p>
+<img src= "https://img.letgo.com/images/2b/af/31/05/2baf3105a094590de8d5c08cd6e2ed93.jpg?impolicy=img_600_pwa">
+<p>That was my bike, and I am going to talk a bit about it. I got it when I 
+turned 9, and I got it because my other bike got it's wheel punctured. and
+ever since, I have loved to ride on it. Nowadays, I make many records. My
+current record is 170 Laps!!!</p>
+</div>
+<br>
+<div class= "exercise">
+<p>I also did a bit of exercise. Me and my family sometimes exercise, and 
+do exercises together. Sadly, I have no pictures, but I did do  a bit with my
+family. It was really really fun.</p>
+<br>
+<p>Over-all I had a great time with my family this summer, and I wanted to
+share my experience. See you all soon!</p>
+</div>
+</body>
